@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**kelseylowe/kelseylowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm  ✨ Kelsey ✨. I'm an third-year undergraduate studying Biology and Microbiology at Oklahoma State University.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on the SWI/SNF complex and INI-1's role in cell proliferation. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning about the BAF complex and neurobiology at UC Merced's Summer Undergraduate Research Institute.
+
+📫 How to reach me: kelsey.lowe@okstate.edu
+
+💬 Pronouns: she/her
+
+⚡ Fun fact: I love to read all things fantasy and sci/fi!
+
+--> github can be found at [ kelseylowe ]
