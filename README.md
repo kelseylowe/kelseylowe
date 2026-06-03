@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm  ✨ Kelsey ✨. I'm an third-year undergraduate studying Biology and Microbiology at Oklahoma State University.
+I'm  Kelsey. I'm an third-year undergraduate studying Biology and Microbiology at Oklahoma State University.
 
 🔭 I’m currently working on the SWI/SNF complex and INI-1's role in cell proliferation. 
 
